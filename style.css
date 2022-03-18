@@ -1,0 +1,28 @@
+.button{
+    margin-left: 10px;
+}
+body{
+    background-image: url("background.jpeg");
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    font-size: x-large;
+    background-color: #0000ff;
+    border: 2px solid #ff5100;
+    width: 104%;
+    margin-left: -2%;
+}
+#note, #status, #objectFound{
+    font-size: large;
+}
+#input{
+    width: 20%;
+    margin-left: 40%;
+}
+canvas{
+    border: 5px solid #00ff00;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px #009900;
+}
